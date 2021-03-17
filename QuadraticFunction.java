@@ -5,7 +5,7 @@
 import java.util.Scanner;
 
 public class QuadraticFunction {
-	
+	// method returns array
 	public static double[] quadraticX(double a, double b, double c) {
 		
 		// Need to create a way to re-enter 'a' if needed as division by zero is
