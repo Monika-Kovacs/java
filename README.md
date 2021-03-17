@@ -3,5 +3,5 @@
 ### based on "Think Java: think like a Computer Scientist" textbook.
 
 ### More complex problems so far:
-  ImprovedGuessTheNumber
-  A
+  #### ImprovedGuessTheNumber
+  #### Abecedarian.java
