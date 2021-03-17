@@ -2,6 +2,6 @@
 
 ### based on "Think Java: think like a Computer Scientist" textbook.
 
-### More complex problems so far:
-  #### UpdatedGuessTheNumber
-  #### Abecedarian.java
+### The more complex problems so far:
+  #### - UpdatedGuessTheNumber
+  #### - Abecedarian.java
