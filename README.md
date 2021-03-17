@@ -1,1 +1,1 @@
-## Java code files for algorithms solving Maths and Text problems.
+## Java code files for algorithms solving Text based problems.
