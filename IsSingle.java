@@ -3,7 +3,7 @@
  */
 
 public class IsSingle {
-	
+	// boolean method to verify whether a digit is single
 	public static boolean isSingle(int digit) {
 		
 		//return digit > 0 && digit < 10;
