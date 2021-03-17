@@ -4,12 +4,12 @@
  */
 
 public class CircleArea {
-
+	// method to calculate area of circle. 
 	public static double CalculateArea(double radius) {
 		
 		return Math.PI * radius * radius;
 	}
-	
+	// radius = diameter / 2
 	public static void main(String[] args) {
 		
 		double diameter = 10.0;
