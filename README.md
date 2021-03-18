@@ -3,6 +3,6 @@
 ### based on "Think Java: think like a Computer Scientist" textbook.
 
 ### The more complex problems so far:
-  #### - UpdatedGuessTheNumber
+  #### - UpdatedGuessTheNumber.java
   #### - Abecedarian.java
   #### - DoubloonTest.java
